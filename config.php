@@ -1,8 +1,8 @@
 <?php
-    $SERVIDOR = 'spigo.net';
-    $USUARIO = 'spigo594_sakila';
-    $SENHA = 'sakila';
-    $NOME_BANCO = 'spigo594_sakila';
+    $SERVIDOR = '';
+    $USUARIO = '';
+    $SENHA = '';
+    $NOME_BANCO = '';
 
     try {
 
